@@ -22,8 +22,7 @@ GREEN = "\033[32m"
 RESET = "\033[0m"
 BOLD    = "\033[m"
 REVERSE = "\033[m"
-#coded by mister spy
-#contact me 712083179
+
 def logo():
         clear = "\x1b[0m"
         colors = [36, 32, 34, 35, 31, 37  ]
